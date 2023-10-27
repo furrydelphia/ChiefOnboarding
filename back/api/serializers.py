@@ -31,6 +31,7 @@ class UserSerializer(serializers.ModelSerializer):
             "timezone",
             "language",
             "sequences",
+            "department"
         ]
 
 
